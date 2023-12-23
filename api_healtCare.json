@@ -1,0 +1,1128 @@
+{
+  "illness": [
+    {
+      "id": 1,
+      "name": "Common Cold",
+      "symtoms": "Runny nose, Cough, Sneezing",
+      "average": "400 persons/2023",
+      "description": [
+        {
+          "line1": "The common cold is an incredibly familiar foe, a viral infection that plagues us all at some point. This mild, yet sometimes miserable, illness primarily affects the upper respiratory tract, leaving us with a symphony of sniffles, coughs, and sneezes.Caused by over 200 different types of viruses, the most common culprit being rhinoviruses, the common cold is a highly contagious adversary. These insidious viruses hitch a ride on respiratory droplets expelled by the infected, finding their way into your body through your eyes, nose, or even a simple touch.",
+          "line2": "Caused by over 200 different types of viruses, the most common culprit being rhinoviruses, the common cold is a highly contagious adversary. These insidious viruses hitch a ride on respiratory droplets expelled by the infected, finding their way into your body through your eyes, nose, or even a simple touch.The battle often begins with a tickle in the throat or a stuffy nose, symptoms that quickly escalate into a full-blown assault. A runny or congested nose becomes your constant companion, while your throat transforms into a scratchy battleground. Coughing fits erupt, and your head pounds in protest. Fatigue and muscle aches join the fray, leaving you feeling utterly defeated.",
+          "line3": "Yet, the best defense is a strong offense. Frequent handwashing with soap and water, maintaining distance from the sick, and disinfecting surfaces become your shields against the viral invaders. A healthy diet and ample sleep bolster your immune system, preparing it for the fight ahead. While the common cold may be a frequent visitor, it is a foe you can conquer. Remember, knowledge is power, so arm yourself with information and fight the good fight. With a bit of preparation and the right tools, you can emerge victorious, leaving the battlefield of sniffles and coughs behind"
+        }
+      ],
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1o5iVBktLf_fa1hdfxxcQekzs7nk4jkSjg-3ae0jMlYrBWs2-AhT_pQFDpHf2"
+    },
+    {
+      "id": 2,
+      "name": "Migranine",
+      "symtoms": "Servere headache, Nausea, Sensitivity to light",
+      "average": "150 persons/2020",
+      "description": [
+        {
+          "line1": "A migraine is a neurological disorder characterized by recurrent headaches of moderate to severe intensity, often accompanied by other symptoms such as nausea, vomiting, and sensitivity to light, sound, and smell. The pain typically occurs on one side of the head and has a pulsating or throbbing quality. Migraines can last for hours or even days, and can significantly impact a person's quality of life.",
+          "line2": "Here's a breakdown of the word 'migraine' to understand it better:</br><ul><li>Mig: This part of the word comes from the Greek word 'hemikrania', meaning 'half-skull'. This refers to the fact that migraines often affect only one side of the head.</li><li>Raine: This part of the word is thought to come from the Latin word 'regina,' meaning 'queen.' This may be a reference to the intense and debilitating nature of migraines.</li></ul>",
+          "line3": "Overall, 'migraine' is a complex and multifaceted word that describes a very real and often debilitating condition."
+        }
+      ],
+      "img": "https://healthmatters.nyp.org/wp-content/uploads/2018/06/migraine-diagram-6.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Asthma",
+      "symtoms": "Shortness of breath, Wheezing,  Chest tightness",
+      "average": "40 persons/2023",
+      "description": [
+        {
+          "line1": "Asthma is a chronic inflammatory disease of the airways in the lungs. It causes recurrent episodes of wheezing, coughing, chest tightness, and shortness of breath. While the exact cause is unknown, it's likely a combination of genetic and environmental factors. ",
+          "line2": "Symptoms can vary greatly in severity and frequency, ranging from mild to life-threatening. Diagnosis usually involves medical history, physical examination, lung function tests, and allergy testing. Treatment focuses on symptom control, attack prevention, and quality of life improvement.",
+          "line3": "This involves medication, allergy immunotherapy, and self-management strategies like avoiding triggers, taking medications as prescribed, monitoring symptoms, and creating an asthma action plan. With proper treatment and self-care, most people with asthma can lead active and fulfilling lives."
+        }
+      ],
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2qsadHkIHsfJdCGWOMJ9q1WZc4Sup1jJ7PRQeUv-6a3xsEBQXShuUXcK65qsH"
+    },
+    {
+      "id": 4,
+      "name": "Dengue",
+      "symtoms": "High fever, severe headaches, joint pain ",
+      "average": "3900 persons/2019",
+      "description": [
+        {
+          "line1": "Dengue, a mosquito-borne viral infection, plagues tropical and subtropical regions. Spread primarily by Aedes mosquitoes, it causes significant illness and death. Dengue fever, the most common form, presents with sudden high fever, headaches, muscle aches, fatigue, nausea, vomiting, and a rash.",
+          "line2": "More severe forms include Dengue Hemorrhagic Fever and Dengue Shock Syndrome, which can lead to bleeding, organ failure, and even death. While no specific cure exists, treatment focuses on symptom relief and management, including rest, fluids, pain relievers, and sometimes hospitalization. ",
+          "line3": " Prevention relies on mosquito control, protective clothing, and mosquito nets. With no vaccine available, dengue remains a major public health concern, affecting millions globally each year. Early diagnosis, prompt treatment, and effective mosquito control are crucial to combating this disease."
+        }
+      ],
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0ndRvVI36sRwiM3FKdLrxMf3FBlcctUzMY9f6QRbvH_x9XVowXOndyeFYvDug"
+    },
+    {
+      "id": 5,
+      "name": "Malaria",
+      "symtoms": "Fever, chills, sweating",
+      "average": "4400 persons/2021",
+      "description": [
+        {
+          "line1": "Malaria, a parasitic disease transmitted by mosquito bites, poses a significant health threat, particularly in tropical and subtropical regions. The Plasmodium parasites, carried in infected Anopheles mosquitoes, invade red blood cells after entering the human body, causing symptoms like fever, chills, sweats, headaches, muscle aches, fatigue, nausea, and vomiting.",
+          "line2": "Severe cases can lead to anemia, jaundice, seizures, coma, or even death. Fortunately, effective medications can combat malaria, but prompt diagnosis and treatment are crucial to prevent complications. Mosquito control through reducing breeding sites and using repellents, wearing protective clothing, utilizing mosquito nets, and taking antimalarial medication for travelers in high-risk areas are crucial for prevention. ",
+          "line3": "Recognizing malaria's impact, with millions of cases and deaths globally, particularly among children under five, highlights the need for continued efforts in diagnosis, treatment, prevention, and education."
+        }
+      ],
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD-t-4faqn9ecIvOSJZ7nlQcFI5lJFMKkI_gUJhvZVqoqpFA3NkpqHW3vbaE2W"
+    },
+    {
+      "id": 6,
+      "name": "Gastritis",
+      "symtoms": "Abdominal pain, bloating, nausea ",
+      "average": "400 persons/2022",
+      "description": [
+        {
+          "line1": "Gastritis, an inflammation of the stomach lining, manifests with symptoms ranging from mild discomfort to severe pain. The primary culprit is the Helicobacter pylori (H. pylori) bacteria, although excessive alcohol consumption, certain medications, and autoimmune disorders can also contribute.",
+          "line2": "Common symptoms include abdominal pain, often worsening after meals or when the stomach is empty, nausea and vomiting, bloating and belching, and heartburn caused by stomach acid backflow into the esophagus. Diagnosis involves a physical examination, blood and stool tests to detect H. ",
+          "line3": "pylori, and potentially an endoscopy to examine the stomach lining. Treatment depends on the cause; H. pylori infection requires antibiotics and medication to reduce stomach acid, while other cases may benefit from over-the-counter antacids, dietary changes to avoid irritating foods and drinks, and stress management techniques. With proper treatment and follow-up care, most individuals with gastritis experience improvement."
+        }
+      ],
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShF5Isd3r80Fg62Bv9bwFcT_onvpjPlDAwyEuIfxslphDI6dtijJ196a7Ior6q"
+    },
+    {
+      "id": 7,
+      "name": "Insomnia",
+      "symtoms": "Difficulty falling and staying a sleep ",
+      "average": "40 persons/2016",
+      "description": [
+        {
+          "line1": "Insomnia, a thief of slumber, steals sleep through persistent difficulty falling asleep, staying asleep, or both. This sleep disruption significantly impacts daily life, leaving you drained, irritable, and unable to function optimally. Stress and anxiety, leading culprits, activate the fight-or-flight response, making relaxation and sleep elusive. Medical conditions, medications, and lifestyle habits such as poor sleep hygiene, irregular schedules, and excessive caffeine and alcohol intake further contribute to this sleeplessness. Insomnia can be acute, lasting a few weeks due to stress or changes in environment, or chronic, occurring several nights a week for at least three months, often caused by a combination of factors.",
+          "line2": " Symptoms like difficulty falling asleep, waking frequently during the night, waking up too early, and feeling tired during the day are telltale signs. ",
+          "line3": "Cognitive-behavioral therapy, relaxation techniques, and sleep hygiene practices can combat insomnia, while medications may be prescribed in some cases. Remember, insomnia can be managed. By implementing healthy sleep habits, practicing relaxation techniques, and seeking professional help when needed, you can reclaim your stolen sleep and wake refreshed and energized."
+        }
+      ],
+      "img": "https://www.sleepfoundation.org/wp-content/uploads/2018/10/SF-23-112_Insomnia_Causes_Graphic-1024x717.png"
+    },
+    {
+      "id": 8,
+      "name": "Osteoporosis",
+      "symtoms": "Brittle bones, increased fracture risk ",
+      "average": "12200 persons/2020",
+      "description": [
+        {
+          "line1": "Osteoporosis, a silent thief of bones, steals their density and strength, increasing fracture risk. This chronic disease, often progressing without symptoms until a fracture occurs, disproportionately affects women after menopause due to hormonal changes. Genetics, medical conditions, medications, and lifestyle factors like lack of calcium and vitamin D, inactivity, smoking, and excessive alcohol intake contribute to its development.",
+          "line2": " Although osteoporosis itself may not present with noticeable symptoms, fractures, especially in the spine, hip, and wrist, often serve as the first and potentially debilitating signs. Diagnosis relies on bone mineral density tests, and treatment involves lifestyle changes like exercise, calcium and vitamin D intake adjustments, and quitting smoking and excessive alcohol consumption. ",
+          "line3": "Building strong bones early through adequate calcium and vitamin D intake, regular weight-bearing exercise, and avoiding smoking and excessive alcohol consumption is crucial for prevention. Maintaining good bone health throughout life through weight-bearing exercise, ensuring calcium and vitamin D intake, and consulting a doctor about preventive medications can help individuals with osteoporosis live active and fulfilling lives, despite the disease's silent threat."
+        }
+      ],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszT0CRHgVKefXBqDR1spddSwu4CWqImRB-8H3uKjDUTmFyXWgp20cy6N_iFRW"
+    },
+    {
+      "id": 9,
+      "name": "Eczema",
+      "symtoms": "Itchy, red, inflamed skin",
+      "average": "2200 persons/2020",
+      "description": [
+        {
+          "line1": "Eczema, also known as atopic dermatitis, is a chronic inflammatory skin condition that casts a shadow of dryness, itchiness, and discomfort. This prevalent condition often affects children, causing dry, red, and intensely itchy patches on the face, inner elbows, behind the knees, and on the hands and feet. ",
+          "line2": "Scratching these itchy patches can worsen the inflammation, leading to a vicious cycle of discomfort and irritation. While the exact cause of eczema remains elusive, it's likely a combination of genetic and environmental factors, including allergies to dust mites, pollen, mold, and pet dander, harsh soaps and detergents, and irritants like smoke and pollution.",
+          "line3": "Symptoms can range from mild to severe, with some individuals experiencing only occasional flare-ups, while others endure persistent, widespread eczema. Diagnosis typically involves a medical history, physical examination, and allergy testing. While there's no cure for eczema, effective management strategies can alleviate symptoms and improve quality of life."
+        }
+      ],
+      "img": "https://medlineplus.gov/images/Eczema_share.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Depression",
+      "symtoms": "Persistent sadness, loss of interest",
+      "average": "14052 persons/2020",
+      "description": [
+        {
+          "line1": "Depression, a pervasive mood disorder, casts a long shadow over those it affects. It's more than just feeling down; it's a persistent darkness characterized by overwhelming sadness, hopelessness, and a loss of interest or pleasure in once-enjoyed activities.",
+          "line2": "Persistent sadness, loss of interest, changes in appetite and sleep, fatigue, poor concentration, negative thoughts, and even suicidal ideation are all telltale signs. While the exact cause remains elusive, a complex interplay of biological, psychological, and social factors likely contribute to its development, including genetics, brain chemistry, medical conditions, stressful life events, and personality traits. ",
+          "line3": "Fortunately, depression is treatable. Psychotherapy, medication, lifestyle changes, and support groups can all provide effective management strategies and improve quality of life. Remember, you are not alone. If you or someone you know is struggling with depression, please reach out for help. There are many resources available to support you on your journey to recovery and reclaim your life from depression's shadow."
+        }
+      ],
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzlaNK0QRvWF7vikzGaty880RJbn6Ys5AAfDzC6O9IFQ6ngeQf4asBw_PLA_LG"
+    },
+    {
+      "id": 11,
+      "name": "Stroke",
+      "symtoms": "Sudden numbness, confusion  ",
+      "average": "100 persons/2013",
+      "description": [
+        {
+          "line1": "A stroke, often likened to a sudden strike on the brain, occurs when blood flow is interrupted, either by a blockage (ischemic) or a rupture (hemorrhagic). This disruption can cause brain tissue death, leading to symptoms like sudden weakness or numbness on one side, speech difficulties, vision problems, dizziness, and severe headaches, depending on the affected area.",
+          "line2": "High blood pressure, cholesterol, smoking, diabetes, obesity, inactivity, age, and family history all contribute to stroke risk. While immediate action is crucial, with FAST serving as a helpful acronym (Face drooping, Arm weakness, Speech difficulty, Time to call 911), treatment like medications, surgery, and rehabilitation can help minimize damage and restore function.",
+          "line3": " By controlling blood pressure, lowering cholesterol, quitting smoking, managing diabetes and weight, exercising regularly, eating a healthy diet, and limiting alcohol consumption, you can significantly reduce your risk of a stroke and protect your brain health"
+        }
+      ],
+      "img": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/44/ds00150_ds01030_my00077_im00074_r7_ischemicstrokethu_jpg.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sinusitis",
+      "symtoms": "Nasal congestion, facial pain  ",
+      "average": "70 persons/2013",
+      "description": [
+        {
+          "line1": "Sinusitis is an inflammatory condition affecting the sinuses, which are air-filled cavities surrounding the nasal area and eyes. Classified into acute, subacute, chronic, and recurrent types based on symptom duration, sinusitis results from impaired sinus drainage, leading to mucus buildup and discomfort.",
+          "line2": " Symptoms commonly include facial pain, nasal congestion, discolored discharge, coughing, headache, and fatigue. Causes encompass infections (viral, bacterial, or fungal), allergies, nasal polyps, and deviated septum. ",
+          "line3": " Treatment varies, with antibiotics for bacterial infections, decongestants to relieve nasal congestion, nasal corticosteroids to reduce inflammation, and saline irrigation to clear mucus. Severe or chronic cases may require surgery for structural correction or obstruction removal. Seeking professional medical advice ensures accurate diagnosis and a tailored treatment plan for effective management of sinusitis."
+        }
+      ],
+      "img": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJvYXV0aCI6eyJjbGllbnRfaWQiOiJmcm9udGlmeS1leHBsb3JlciJ9LCJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL3Byb2plY3RzXC8yMDlcL2Fzc2V0c1wvZGNcLzMzOTAxXC83MTk2MTllMDU3MDlkY2U3MTg5OTQ0MGQwYzEzZjA5Mi0xNjQ2OTI0OTYzLmpwZyJ9:ihh-healthcare-berhad:H8uwtMXeoGUxKKfRgLqokXfZGZKMuNpzFRWlf0ff8i4?format=webp"
+    },
+    {
+      "id": 13,
+      "name": "Pneumonia",
+      "symtoms": "Fever, cough, difficulty breathing",
+      "average": "767 persons/2022",
+      "description": [
+        {
+          "line1": "Pneumonia is a respiratory infection characterized by inflammation of the air sacs in one or both lungs. It is commonly caused by bacteria, viruses, or fungi, with the most frequent cases arising from bacterial infections, particularly Streptococcus pneumoniae.",
+          "line2": " Pneumonia symptoms can vary but often include cough, chest pain, shortness of breath, fever, and the production of phlegm. The infection may range from mild to severe and can be particularly dangerous for the elderly, young children, and individuals with weakened immune systems. ",
+          "line3": "Treatment depends on the cause of pneumonia, with bacterial infections often requiring antibiotics and antiviral or antifungal medications for viral or fungal cases. Supportive measures like rest, hydration, and pain relief are also integral to recovery."
+        }
+      ],
+      "img": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4471-pneumonia-01"
+    },
+    {
+      "id": 14,
+      "name": "Allergies",
+      "symtoms": "Fever, cough, difficulty breathing",
+      "average": "767 persons/2022",
+      "description": [
+        {
+          "line1": "Pneumonia is a respiratory infection characterized by inflammation of the air sacs in one or both lungs. It is commonly caused by bacteria, viruses, or fungi, with the most frequent cases arising from bacterial infections, particularly Streptococcus pneumoniae.",
+          "line2": " Pneumonia symptoms can vary but often include cough, chest pain, shortness of breath, fever, and the production of phlegm. The infection may range from mild to severe and can be particularly dangerous for the elderly, young children, and individuals with weakened immune systems. ",
+          "line3": "Treatment depends on the cause of pneumonia, with bacterial infections often requiring antibiotics and antiviral or antifungal medications for viral or fungal cases. Supportive measures like rest, hydration, and pain relief are also integral to recovery."
+        }
+      ],
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9KRTG8n89bmDIlFydVDmJ60m0aGLwdbJbp4bpzataGuhkKb326ovrmUW_t-ql"
+    },
+    {
+      "id": 15,
+      "name": "Cardiology",
+      "symtoms": "Chest Pain or Discomfort, Shortness of Breath (Dyspnea), Fatigue",
+      "average": "117 persons/2012",
+      "description": [
+        {
+          "line1": "While not an illness itself, cardiology dives deep into the realm of diagnosing and treating those that plague our most vital organ, the heart. This medical specialty tackles a vast array of cardiovascular diseases, from the ever-present threat of coronary artery disease to the erratic rhythms of arrhythmias.",
+          "line2": "Cardiologists wield a toolbox of tests and treatments, from medication and lifestyle adjustments to delicate procedures, all with the noble aim of keeping our hearts ticking strong and our blood flowing freely.  ",
+          "line3": "So, should chest pains or breathlessness knock, remember, cardiology stands as a champion for the health of our cardiovascular system, ready to diagnose, treat, and ultimately save lives."
+        }
+      ],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7E4gcRcuraMSLffftyjmcrU6jPxB29Apc6RapB_RASm7KWeUMbIxooS-O1u0"
+    },
+    {
+      "id": 16,
+      "name": "Neurology",
+      "symtoms": "Headaches, Seizures, Neurological Deficits",
+      "average": "880 persons/2018",
+      "description": [
+        {
+          "line1": "Within the intricate wiring of our minds lies the domain of neurology, a medical marvel dedicated to unravelling the mysteries of the nervous system. From the bustling metropolis of the brain to the silent highways of our nerves, neurologists navigate a complex landscape, diagnosing and treating disorders that disrupt the delicate dance of thought, movement, and sensation.",
+          "line2": " Headaches find relief under their watchful gaze, strokes are intercepted with lightning speed, and forgotten memories sometimes flicker back to life through their skilled interventions. ",
+          "line3": "With each intricate test and innovative treatment, neurology builds bridges across the gaps, helping us reclaim control over our bodies and reclaim the stories etched within our very neurons. Whether it's a whisper of hope for those battling chronic conditions or a dazzling glimpse into the boundless potential of the human brain, neurology stands as a testament to the enduring power of medicine and the unyielding quest to understand the magnificent symphony of our nervous system."
+        }
+      ],
+      "img": "https://brentfurnishdc.com/wp-content/uploads/2017/10/qtq80-uqw0yB-1024x703-1024x585.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Nephrology",
+      "symtoms": "Changes in Urination Patterns, Fluid Retention (Edema), Fatigue and Weakness",
+      "average": "128 persons/2018",
+      "description": [
+        {
+          "line1": "Beneath the surface, silently filtering our lifeblood, lie our enigmatic kidneys. Nephrology delves into the world of these vital organs, guardians of our internal balance. These medical sleuths diagnose the whispers of dysfunction, from the silent threat of chronic disease to the thunderous roar of acute failure. ",
+          "line2": "Armed with stethoscopes and microscopes, they decipher the language of blood and urine, pinpointing the culprits behind hypertension, infections, and stones.",
+          "line3": "With gentle guidance and potent therapies, they coax kidneys back to health, preserving the delicate dance of waste removal and fluid control. Whether it's the lifeline of dialysis or the miracle of transplantation, nephrology offers hope and resilience, reminding us that even in the hidden depths, healing hands can mend the threads of life."
+        }
+      ],
+      "img": "https://athaayuhospital.in/oaroaghy/2021/10/6.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Hypertension",
+      "symtoms": "Headaches, Dizziness, Fatigue, Shortness of breath, Nosebleeds, Anxiety",
+      "average": "2000 persons/2019",
+      "description": [
+        {
+          "line1": "Hypertension, also known as high blood pressure, is a common condition that affects millions of people worldwide. It occurs when the force exerted by blood against the walls of your arteries is consistently too high. This can lead to serious health problems like heart disease, stroke, kidney failure, and even dementia.",
+          "line2": "Normal blood pressure is generally considered to be less than 120/80 mmHg. Hypertension is diagnosed when blood pressure readings consistently reach or exceed 130/80 mmHg. There are two main types of hypertension:",
+          "line3": "<ul><li>Primary hypertension: This is the most common type, and it has no identifiable cause. It is thought to be caused by a combination of genetic and environmental factors.</li><li>Secondary hypertension: This is caused by an underlying medical condition, such as kidney disease, thyroid problems, or sleep apnea.</li></ul>"
+        }
+      ],
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSeN9EXnznCbVj4jNiA2A-A5t4tA-6_XZ3RfjKImT9ZxsRmbNwch2aAvNuUBtR"
+    },
+    {
+      "id": 19,
+      "name": "Orthopedics",
+      "symtoms": "Joint Pain, Limited Range of Motion, Muscle Weakness or Instability",
+      "average": "1338 persons/2020",
+      "description": [
+        {
+          "line1": "In the grand ballet of human movement, orthopedics takes center stage, mending the broken and realigning the askew. From the whispered twinges of sprains to the thunderous roars of fractures, these bone whisperers diagnose the music of pain, deciphering its rhythm and source.",
+          "line2": "With stethoscopes as tuning forks and X-rays as spotlights, they illuminate the hidden injuries, from misaligned joints to torn ligaments. Their toolbox brims with the instruments of healing – casts, braces, and scalpels – wielded with the grace of maestros. ",
+          "line3": "Whether coaxing bones back into harmony or crafting artificial symphonies of metal and plastic, orthopedics restores the body's forgotten melodies, allowing us to once again pirouette through life, pain-free and whole.          "
+        }
+      ],
+      "img": "https://sayaamed.com/wp-content/uploads/2022/01/Orthopedics-in-sayaa-med-1.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Cardiac Surgery",
+      "symtoms": "Coronary Artery Disease, Valvular Heart Disease, Congenital Heart Defects",
+      "average": "1009 persons/2010",
+      "description": [
+        {
+          "line1": "Cardiac surgery involves surgical procedures performed on the heart or great vessels by cardiac surgeons.",
+          "line2": " While cardiac surgery itself is a treatment rather than a set of symptoms, there are specific signs and symptoms that may lead to the consideration of cardiac surgery. ",
+          "line3": "Open chests become canvases, instruments paint with suture and scalpel, crafting intricate repairs as hearts teeter on the edge of silence. It's a gamble, a high-wire act in the most delicate theater, where success means a second chance, a stolen beat from the clutches of mortality. Cardiac surgery, a testament to human ingenuity and the tenacious will to breathe life back into what falters, stands as a beacon of hope, whispering promises of tomorrows in the rhythm of a mended heart."
+        }
+      ],
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6ToEXvEQ6DyFeBClLBPCij3ph8W0Lf9rWqsymVD4rlaEnLKlkr6zZR3mXlJzP"
+    },
+    {
+      "id": 21,
+      "name": "Gastroenterology",
+      "symtoms": "Abdominal Pain, Gastrointestinal Bleeding, Changes in Bowel Habits",
+      "average": "1730 persons/2022",
+      "description": [
+        {
+          "line1": "In the labyrinthine corridors of the gut, where digestion's drama unfolds, gastroenterology shines a light. These detectives of the digestive tract unravel the mysteries of bellies that rumble, bowels that churn, and stools that whisper tales of imbalance. ",
+          "line2": " From the fiery whispers of gastritis to the rebellious roars of Crohn's disease, gastroenterologists decipher the cryptic language of endoscopes and blood tests, pinpointing the hidden foes – bacteria, inflammation, malfunctioning muscles. With a gentle touch and precise tools, they soothe inflamed tissue, tame unruly flora, and coax sluggish digestions back to life.",
+          "line3": "Through dietary sleuthing and therapeutic concoctions, they restore harmony to the gut orchestra, ensuring the smooth melody of digestion can resume. Whether it's alleviating the pangs of IBS or performing intricate liver surgery, gastroenterology stands as a sentinel of gut health, reminding us that within the wondrous machinery of our bellies lies the key to our overall well-being.          "
+        }
+      ],
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpPlCFkS7eG_spUGT78aP-jFasCKJ3qfymecjhKVT91zGb2G1BKxCk8JdRdI_"
+    },
+    {
+      "id": 22,
+      "name": "Dermatology",
+      "symtoms": "Skin Rash, Skin Lesions or Growths, Itching (Pruritus)",
+      "average": "21509 persons/2018",
+      "description": [
+        {
+          "line1": "Imagine a canvas as vast as the human body, where every freckle, wrinkle, and strand of hair tells a story. Dermatologists are the artists and detectives of this canvas, deciphering the language of the skin to diagnose and treat a multitude of ailments.          ",
+          "line2": "Their toolkit is as diverse as the conditions they encounter. From biopsies and microscopes to lasers and cutting-edge medications, dermatologists wield a unique blend of medical expertise and technological prowess. They tackle common woes like acne and eczema, navigate the labyrinthine world of allergies and autoimmune diseases, and stand sentinel against the shadows of skin cancer",
+          "line3": "But dermatology is more than just medicine. It's a field deeply intertwined with our self-image and social identities. A dermatologist's touch can not only heal a physical ailment but also restore confidence and well-being. In a world fixated on outward appearances, they offer hope and empowerment, one healthy hair follicle and glowing complexion at a time. So, the next time you marvel at the intricate patterns of your fingerprint or feel the comforting warmth of sunshine on your skin, remember the invisible guardians of this vital organ - the dermatologists, quietly weaving their magic, one diagnosis and treatment at a time."
+        }
+      ],
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUlYPoHi2GRklODgOSZGWnOgmwYk2HBpgJBNEiwxzsCatmC_R10KnRUnA27u20"
+    },
+    {
+      "id": 23,
+      "name": "Orthopedics",
+      "symtoms": "Orthopedic Trauma and Fractures, Joint Replacement Surgery, Sports Medicine",
+      "average": "17039 persons/2015",
+      "description": [
+        {
+          "line1": "Orthopedics, sometimes spelled orthopaedics, is a branch of medicine that deals with the diagnosis, prevention, and treatment of conditions affecting the musculoskeletal system. This system is the body's framework, made up of bones, joints, muscles, ligaments, tendons, nerves, and blood vessels. ",
+          "line2": "Orthopedic surgeons are medical doctors who have received specialized training in the musculoskeletal system. They use a variety of techniques to treat patients, including surgery, medication, physical therapy, and bracing. Some of the most common conditions that orthopedics treat include: Arthritis, Fractures, Sports injuries, Back pain, Carpal tunnel syndrome, Tendinitis and Bursitis. </br>Orthopedics is a rapidly growing field, with new treatments and technologies being developed all the time. This is due in part to the aging population, as older adults are more likely to develop musculoskeletal conditions. Orthopedics also plays an important role in helping people stay active and mobile, regardless of their age or activity level.",
+          "line3": "If you are experiencing any pain, stiffness, or other problems with your musculoskeletal system, it is important to see an orthopedic doctor for diagnosis and treatment. Early diagnosis and treatment can help prevent further damage and improve your quality of life."
+        }
+      ],
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4CjIDdZsCUraieym5RrviH903lRwygJS2T4ZLkO5lSClV7W1F5XfUuoinTWFl"
+    },
+    {
+      "id": 24,
+      "name": "Oncology",
+      "symtoms": "Cancer Diagnosis and Staging, Cancer Treatment Modalities, Cancer Prevention and Supportive Care",
+      "average": "1099 persons/2020",
+      "description": [
+        {
+          "line1": "Oncology is a vast and intricate branch of medicine dedicated to battling the complex disease of cancer. It encompasses a multitude of disciplines, from the meticulous diagnosis of tumors to the development of cutting-edge treatment strategies. Oncologists, the skilled warriors in this fight, wield an arsenal of weapons against cancer, including surgery, chemotherapy, radiation therapy, and immunotherapy. Their relentless pursuit of knowledge fuels ongoing research that delves into the very essence of cancer biology, seeking to unravel its mysteries and ultimately conquer this formidable foe.",
+          "line2": "The journey of an oncologist is one of immense challenge and profound purpose. Each patient entrusts them with their most precious asset - their life - and oncologists shoulder this responsibility with unwavering dedication and empathy. They navigate the emotional storms that accompany a cancer diagnosis, providing not only medical expertise but also unwavering support and compassion.",
+          "line3": "In essence, oncology is a beacon of hope in the face of a formidable adversary. It is a testament to the unwavering human spirit, our relentless pursuit of knowledge, and our unwavering commitment to conquering even the most daunting of challenges. As research continues to push the boundaries of what's possible, we can confidently say that the future of oncology is bright, offering ever-increasing hope for a world where cancer is no longer a death sentence, but a manageable condition."
+        }
+      ],
+      "img": "https://d3b6u46udi9ohd.cloudfront.net/wp-content/uploads/2023/09/09061709/16-3.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Hematology",
+      "symtoms": "Fatigue and Weakness, Unexplained Bruising and Bleeding, Recurrent Infections",
+      "average": "6997 persons/2022",
+      "description": [
+        {
+          "line1": "Hematology is the branch of medicine that delves into the fascinating world of blood. It encompasses the study of its formation, composition, and the myriad of diseases that can afflict it. Imagine blood as a bustling metropolis, teeming with red blood cells carrying oxygen, white blood cells patrolling for invaders, and platelets patching up leaks. Hematologists are the doctors and scientists who understand the intricate workings of this metropolis, diagnosing and treating blood disorders to keep the city functioning smoothly. </br> Their toolkit includes a variety of tests, from the simple complete blood count to bone marrow biopsies that peek into the blood's production factory. By analyzing the number, size, and shape of blood cells, hematologists can unravel the mysteries of diseases like anemia, where the city's oxygen delivery is compromised, or leukemia, where rogue blood cells run amok.",
+          "line2": "Hematology isn't just about diagnosing problems; it's also about finding solutions. Blood transfusions replenish depleted stocks, while innovative treatments like gene therapy rewrite the city's blueprints to correct genetic flaws. With tireless research and dedication, hematologists strive to keep the blood metropolis thriving, ensuring the health and well-being of individuals and populations alike.",
+          "line3": "So, the next time you see a drop of blood, remember the vast and intricate world it represents. And know that there are dedicated hematologists standing guard, ready to diagnose and treat any ailment that might threaten this vital metropolis."
+        }
+      ],
+      "img": "https://www.cochiseoncology.com/wp-content/uploads/2021/08/Hematology-Tucson.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Pediatrics",
+      "symtoms": "Well-Child Care and Preventive Medicine, Pediatric Acute and Chronic Illness Management, Pediatric Emergency Care",
+      "average": "2350 persons/2021",
+      "description": [
+        {
+          "line1": "Pediatrics is the vast and specialized field of medicine dedicated to the well-being of children, from the tiniest newborns to young adults on the cusp of adulthood. It's a symphony of healthcare, encompassing physical, mental, and emotional needs throughout every stage of a child's development, both in sickness and in health. </br> Imagine a nurturing cocoon where growth and resilience are meticulously fostered. That's the essence of pediatrics. Pediatricians, the gentle guardians of this realm, wield a unique set of expertise. They have a profound understanding of how children's bodies and minds work, how they differ from adults, and how to navigate the intricate web of their ever-changing needs.",
+          "line2": "Their toolkit is as diverse as the children they care for. From routine checkups and immunizations to managing complex chronic conditions, pediatricians wield a blend of preventive care, astute diagnosis, and evidence-based treatments. They are also champions of healthy growth, offering guidance on nutrition, exercise, and emotional well-being.",
+          "line3": "But pediatrics is more than just medical science. It's a tapestry woven with empathy, communication, and a genuine love for children. Pediatricians understand the power of a playful approach, a reassuring smile, and a kind word. They connect with their young patients on their level, building trust and forging bonds that can last a lifetime.</br></br> In essence, pediatrics is a celebration of life's most precious journey. It's about nurturing potential, safeguarding health, and guiding the next generation towards a brighter future. It's a testament to the human spirit's unwavering commitment to cherishing and protecting our little ones, ensuring they blossom into happy, healthy individuals."
+        }
+      ],
+      "img": "https://medical.rossu.edu/sites/g/files/krcnkv261/files/styles/atge_3_2_crop_md/public/2022-04/Pediatrician.jpg?h=f9d06ff2&itok=RIN6zAjk"
+    }
+  ],
+  "hospital": [
+    {
+      "id": 1,
+      "name_hos": "Central Hospital",
+      "rate": "3.5",
+      "logo": "https://www.central-hospital.com/ch/assets/photos/hospital_building.jpg",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.789786924799!2d104.91992977575855!3d11.566922144114377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109514738c845cf%3A0xb5f28ca5fdce99f3!2sCentral%20Hospital!5e0!3m2!1sen!2skh!4v1702302402293!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Allergies,Common Cold,Gastritis",
+          "detail": [
+            {
+              "doctor_name": "Dr.Chen",
+              "img": "https://img.freepik.com/premium-vector/doctor-profile-with-medical-service-icon_617655-48.jpg?w=360",
+              "exper": "12",
+              "des_doc": "Immunologist focusing on allergy treatment",
+              "year_of_work": "18 years",
+              "illness_control": "Allergen avoidance",
+              "phone": "089 456 098",
+              "email": "dr.chen@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name_hos": "Reaksmey Sophea Clinic មន្ទីរសម្រាកព្យាបាល រស្មីសោភា",
+      "rate": "3.7",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipP6I4UoEKpIunIhYu2qAYiNo_eCHhjx3RZN2Sdn=s680-w680-h510",
+      "location": [
+        {
+          "locate": "Siem Reap",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3881.929452820954!2d103.84825397577552!3d13.354662706362802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311017d6412ed3ff%3A0x21bfbc30e4ea1b85!2zUmVha3NtZXkgU29waGVhIENsaW5pYyDhnpjhnpPhn5LhnpHhnrjhnprhnp_hnpjhn5LhnprhnrbhnoDhnpbhn5LhnpnhnrbhnpThnrbhnpsg4Z6a4Z6f4Z-S4Z6Y4Z644Z6f4Z-E4Z6X4Z62!5e0!3m2!1sen!2skh!4v1702362973806!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Diabetes,Hypertension , Common Cold,Insomnia,Allergies",
+          "detail": [
+            {
+              "doctor_name": "Dr.Sokha",
+              "img": "https://img.freepik.com/premium-vector/doctor-profile-with-medical-service-icon_617655-48.jpg?w=360",
+              "exper": "10",
+              "des_doc": "Specializes in endocrinology and diabetes",
+              "year_of_work": "15 years",
+              "illness_control": "Medication, Lifestyle",
+              "phone": "012 456 789",
+              "email": "dr.sokha@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name_hos": "Handa Medical Clinic",
+      "rate": "4.1",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipMSJ0Gh97I9b1p_koIW-8PkWTffHHuDEJQNEQIF=w431-h240-k-no",
+      "location": [
+        {
+          "locate": "Battambong",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62176.70123316933!2d103.15049940615286!3d13.096408984904704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310549a51df2fa91%3A0x1f65ee54dda8d3f2!2sHanda%20Medical%20Center!5e0!3m2!1sen!2skh!4v1702363381323!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Diabetes,Cardiology,Eczema,Common Cold,Insomnia,Pediatrics",
+          "detail": [
+            {
+              "doctor_name": "Dr.Sokha",
+              "img": "https://c8.alamy.com/comp/2FJRFJP/flat-male-doctor-avatar-in-medical-coat-and-with-stethoscope-healthcare-vector-illustration-people-cartoon-avatar-profile-character-icon-2FJRFJP.jpg",
+              "exper": "10",
+              "des_doc": "Specializes in endocrinology and diabetes",
+              "year_of_work": "15 years",
+              "illness_control": "Medication, Lifestyle",
+              "phone": "012 456 789",
+              "email": "dr.sokha@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name_hos": "Kampong Speu Regional Hospital",
+      "rate": "4.2",
+      "logo": "https://clubrunner.blob.core.windows.net/00000007912/Images/Front-gate-of-Kampong-Spue-copy-2.jpg",
+      "location": [
+        {
+          "locate": "Kampong Speu",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3910.10573280766!2d104.54100847575782!3d11.472293545971633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31093bca92c89eb1%3A0xf7eb5c83d56c71f9!2sKampong%20Speu%20Referral%20Hospital%20(KampongSpeu%2C%20Cambodia)!5e0!3m2!1sen!2skh!4v1702434670704!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Migranine,Common Cold,Insomnia,Neurology,Pediatrics",
+          "detail": [
+            {
+              "doctor_name": "Dr.Sombo",
+              "img": "https://img.freepik.com/premium-vector/profile-doctor-standing-doctor-illustration-vector-profile-icon-portraits_665438-227.jpg?w=2000",
+              "exper": "6",
+              "des_doc": "Neurologist specializing in migraine treatment",
+              "year_of_work": "9 years",
+              "illness_control": "Medication, Lifestyle",
+              "phone": "012 567 789",
+              "email": "dr.sombo@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name_hos": "Kratie Referral Hospital",
+      "rate": "4.5",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOA86LPQyyQfwfoycQ-2dEU8FGYeYxV5Qrp8Y7m=w408-h306-k-no",
+      "location": [
+        {
+          "locate": "Kratie",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3895.5979479889415!2d106.01933587506812!3d12.476473987795218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310d1a5e62ef712d%3A0x8ede390abf00a9e3!2sKratie%20Referral%20Hospital!5e0!3m2!1sen!2skh!4v1702435000201!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Respiratory Infections,Asthma,Migranine,Osteoporosis,Nephrology",
+          "detail": [
+            {
+              "doctor_name": "Dr. Sopanha Rith",
+              "img": "https://as2.ftcdn.net/v2/jpg/03/34/29/17/1000_F_334291754_DYknwARwcZNeX8Fq7gup5z3NpsGkFoyI.jpg",
+              "exper": "9",
+              "des_doc": "Infectious disease specialist, respiratory infections",
+              "year_of_work": "12 years",
+              "illness_control": "Medication, Isolation  ",
+              "phone": "089 789 123",
+              "email": "dr.sopanharith@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name_hos": "Svay Rieng Health Center",
+      "rate": "4",
+      "logo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FFJdnRqmVyhyLNAXpuoA6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.96423&pitch=0&thumbfov=100",
+      "location": [
+        {
+          "locate": "Svay Rieng",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d250579.59240951587!2d105.66470311573882!3d11.090546553627632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310b076cb4729db9%3A0x2cf4697f7ccdb0c6!2sSvay%20Rieng%20Health%20Center!5e0!3m2!1sen!2skh!4v1702435372705!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Hepatitis B,Dengue,Malaria,Migranine,Osteoporosis,Pediatrics",
+          "detail": [
+            {
+              "doctor_name": "Dr. Sothea Vanna",
+              "img": "https://www.shutterstock.com/shutterstock/photos/1741540904/display_1500/stock-photo-doctor-medic-man-african-with-stethoscope-avatar-flat-icon-isolated-on-white-background-medical-1741540904.jpg",
+              "exper": "12",
+              "des_doc": "Gastroenterologist specializing in hepatitis B",
+              "year_of_work": "17 years",
+              "illness_control": "Medication, Vaccination  ",
+              "phone": "012 098 890",
+              "email": "dr.sotheavanna@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name_hos": "Kampong Chhnang Hospital",
+      "rate": "5",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOMvvVFysNcXdbD5YXo5O2Ehk6X9ZZDhRfMH-U5=w426-h240-k-no",
+      "location": [
+        {
+          "locate": "Kampong Chhnang",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.9491046934345!2d104.66711177576462!3d12.25172353025057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310e8d30b2e61873%3A0xf8f882838dee470f!2sKampong%20Chhnang%20Hospital!5e0!3m2!1sen!2skh!4v1702435852213!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Obesity,Gastritis,Insomnia,Migranine ,Eczema,Nephrology",
+          "detail": [
+            {
+              "doctor_name": "Dr. Anderson ",
+              "img": "https://www.shutterstock.com/shutterstock/photos/1741540904/display_1500/stock-photo-doctor-medic-man-african-with-stethoscope-avatar-flat-icon-isolated-on-white-background-medical-1741540904.jpg",
+              "exper": "12",
+              "des_doc": "Weight management specialist for obesity",
+              "year_of_work": "16 years",
+              "illness_control": "Nutrition, Exercise",
+              "phone": "078 123 678",
+              "email": "dr.Anderson@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name_hos": "Mondulkiri Provincial Referral Hospital",
+      "rate": "5",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipMN5w__P8s3fvqo_DCJae4JwB-2KFMoT50rxL9X=w408-h306-k-no",
+      "location": [
+        {
+          "locate": "Mondulkiri",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3895.940956545208!2d107.18519367576653!3d12.453653026020767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3172f0c910af8f63%3A0x8e9b37fb55288977!2sMondulkiri%20Provincial%20Referral%20Hospital!5e0!3m2!1sen!2skh!4v1702448434552!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Malaria , Common Cold,Asthma,Migranine,Eczema,Hypertension",
+          "detail": [
+            {
+              "doctor_name": "Dr.Phalla Phearun",
+              "img": "https://www.yatharthhospitals.com/uploads/doctor/yatharth_24661707.jpg",
+              "exper": "10",
+              "des_doc": "Infectious disease specialist, malaria treatment",
+              "year_of_work": "14 years",
+              "illness_control": "Antimalarial medication",
+              "phone": "067 890 123",
+              "email": "dr.phallaphearun@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name_hos": "មន្ទីរពេទ្យបង្អែក ក្រុងព្រៃវែង ខេត្តព្រៃវែង",
+      "rate": "4",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOGrr1OPbUD4AyyLYG1Dds6uf8fr5jD6UV125Qs=w408-h306-k-no",
+      "location": [
+        {
+          "locate": "Prey Veng",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3909.949707601765!2d105.32122432560443!3d11.483553387254364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310bf205f8c328d3%3A0xe429bebdd83766ad!2z4Z6Y4Z6T4Z-S4Z6R4Z644Z6a4Z6W4Z-B4Z6R4Z-S4Z6Z4Z6U4Z6E4Z-S4Z6i4Z-C4Z6AIOGegOGfkuGemuGeu-GehOGeluGfkuGemuGfg-GenOGfguGehCDhnoHhn4Hhno_hn5Lhno_hnpbhn5Lhnprhn4Phnpzhn4LhnoQ!5e0!3m2!1sen!2skh!4v1702448848217!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Cholera,Osteoporosis,Asthma,Eczema,Hypertension",
+          "detail": [
+            {
+              "doctor_name": "Dr. Sovannarith Kim",
+              "img": "https://cdn1.vectorstock.com/i/1000x1000/57/60/beard-man-medical-doctor-stethoscope-profile-icon-vector-21385760.jpg",
+              "exper": "9",
+              "des_doc": "Gastroenterologist specializing in cholera treatment ",
+              "year_of_work": "12 years",
+              "illness_control": "Hydration, Antibiotics",
+              "phone": "098 543 780",
+              "email": "dr.sovannarithkim@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name_hos": "O'smach Health center",
+      "rate": "4",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipMmyq7yWrmDSHqLoWfIRiPSTgHvYG_ZAC7HhsI5=w284-h160-k-no",
+      "location": [
+        {
+          "locate": "Oddar Meanchey",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.7128117744437!2d103.69535873650308!3d14.41571604974689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3110a5feabfb2817%3A0xdc05699078e8c9b9!2z4Z6f4Z624Z6b4Z624Z6f4Z6E4Z-S4Z6A4Z624Z6P4Z-L4Z6i4Z684Z6a4Z6f4Z-S4Z6Y4Z624Z6F4Z-L!5e0!3m2!1sen!2skh!4v1703178736581!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Typhoid Fever,Stroke ,Sinusitis,Asthma,Depression,Orthopedics",
+          "detail": [
+            {
+              "doctor_name": "Dr. Sopheap Sovan",
+              "img": "https://cdn1.vectorstock.com/i/1000x1000/57/60/beard-man-medical-doctor-stethoscope-profile-icon-vector-21385760.jpg",
+              "exper": "10",
+              "des_doc": "Internal Medicine with focus on typhoid fever",
+              "year_of_work": "14 years",
+              "illness_control": "Antibiotics, Hygiene",
+              "phone": "078 543 567",
+              "email": "dr.sopheapsovan@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name_hos": "Calmette Hospital",
+      "rate": "4.1",
+      "logo": "https://www.gocambodia.tours/wp-content/uploads/2018/07/Calmette-Hospital-Phnom-Penh.jpg",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.5901373503893!2d104.91397327575862!3d11.581212143832595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951bfd83062db%3A0xbd70d61ba09c8b1c!2sCalmette%20Hospital!5e0!3m2!1sen!2skh!4v1702450048982!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Hypertension,Sinusitis,Asthma,Depression,Cardiac Surgery",
+          "detail": [
+            {
+              "doctor_name": "Dr. Srey Chan",
+              "img": "https://previews.123rf.com/images/jemastock/jemastock1811/jemastock181110709/127665093-doctor-profile-avatar-round-icon-vector-illustration-graphic-design.jpg",
+              "exper": "12",
+              "des_doc": "Cardiologist focusing on hypertension ",
+              "year_of_work": "15 years",
+              "illness_control": "Medication, Exercise   ",
+              "phone": "099 432 789",
+              "email": "dr.sreychan@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name_hos": "Evin Hospital",
+      "rate": "4.1",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipO3wXczj1YrXNTOq7vL1aoBzdDyB4cPGbc2FXxc=w433-h240-k-no",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.70429849498!2d104.87495297575866!3d11.573043143993734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109517635a5a1d1%3A0xebbb4145d82f2e51!2z4Z6Y4Z6T4Z-S4Z6R4Z644Z6a4Z6W4Z-B4Z6R4Z-S4Z6Z4oCL4Z6f4Z624Z6A4Z6b4Z6c4Z634Z6R4Z-S4Z6Z4Z624Z6b4Z-Q4Z6Z4Z6i4Z6T4Z-S4Z6P4Z6a4Z6H4Z624Z6P4Z634oCL4Z6f4Z-C4Z6T4Z6f4Z674Z6B!5e0!3m2!1sen!2skh!4v1702450264316!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Malaria,Asthma,Stroke,Cardiac Surgery,Hematology",
+          "detail": [
+            {
+              "doctor_name": "Dr. Vanna Khem",
+              "img": "https://static.vecteezy.com/system/resources/previews/012/992/573/original/illustration-doctor-avatar-doctor-health-medical-icon-vector.jpg",
+              "exper": "10",
+              "des_doc": "Infectious disease specialist, malaria treatment",
+              "year_of_work": "12 years",
+              "illness_control": "Antimalarial medication",
+              "phone": "089 456 098",
+              "email": "dr.vannakhem@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name_hos": "Long Hua Zhong Yi Yuan Polyclinic",
+      "rate": "4",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipN6IjdqKxQeFl8r_DbrkFsdPlpngxWYqkMa8Hbp=s680-w680-h510",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.8547665385026!2d104.90452177575848!3d11.562267444205961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095113b69d7dbb%3A0xdabb6733d22517ab!2sLong%20Hua%20Zhong%20Yi%20Yuan%20Polyclinic!5e0!3m2!1sen!2skh!4v1702450528750!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Insomnia,Gastritis,Dengue,Stroke,Gastroenterology,Hematology",
+          "detail": [
+            {
+              "doctor_name": "Dr.Patel",
+              "img": "https://st.depositphotos.com/60655086/52863/v/450/depositphotos_528632618-stock-illustration-woman-doctor-white-medical-coat.jpg",
+              "exper": "9",
+              "des_doc": "Sleep specialist addressing insomnia issues",
+              "year_of_work": "11 years",
+              "illness_control": "Sleep hygiene, Therapy  ",
+              "phone": "099 123 890",
+              "email": "dr.patel@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name_hos": "Khmer-Soviet Friendship Hospital",
+      "rate": "4.3",
+      "logo": "https://c8.alamy.com/comp/2HPGE0H/khmer-soviet-friendship-hospital-phnom-penh-kingdom-of-cambodia-southeast-asia-2HPGE0H.jpg",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3909.0969612634754!2d104.90074257584428!3d11.54490194454755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109511d4b43131b%3A0x12bc4cb69f62c090!2sKHMER%20-SOVIET%20FRIENDSHIP%20HOSPITAL!5e0!3m2!1sen!2skh!4v1702824215303!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Cardiology, Neurology, Nephrology, Oncology,Dengue,Gastroenterology",
+          "detail": [
+            {
+              "doctor_name": "Dr.Sokha",
+              "img": "https://img.freepik.com/premium-photo/female-doctor-profile-photoshout-generated-ai_1000320-1259.jpg",
+              "exper": "8",
+              "des_doc": "Specialize in Oncology",
+              "year_of_work": "9 years",
+              "illness_control": "Cancer Prevention Through Lifestyle ,Regular Screening and Early Detection ,Vaccination ,Environmental and Occupational Safety ,Genetic Counseling and Testing ",
+              "phone": "091 678 456",
+              "email": "dr.sokha@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name_hos": "Royal PhnomPenh Hospital",
+      "rate": "4",
+      "logo": "https://bgh.sgp1.digitaloceanspaces.com/old-site/Disease%20Treatment%20picture%201200/001_27.jpg",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.854211039838!2d104.87798277584459!3d11.562307244205158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951a354c389d9%3A0xd07843ea8349e8c1!2sRoyal%20Phnom%20Penh%20Hospital!5e0!3m2!1sen!2skh!4v1702826143801!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Stroke, Cardiac Surgery, Gastroenterology, Ophthalmology,Dengue,Dermatology",
+          "detail": [
+            {
+              "doctor_name": "Dr.Oudom",
+              "img": "https://img.freepik.com/premium-photo/female-doctor-profile-photoshout-generated-ai_1000320-1245.jpg",
+              "exper": "9",
+              "des_doc": "Specialize in Ophthalmology",
+              "year_of_work": "10 years",
+              "illness_control": "_Regular Eye Examinations ,Corrective Lenses ,Eye Safety Practices ,Eye-friendly Work Habits ,Sun Protection",
+              "phone": "089 678 456",
+              "email": "dr.oudom@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name_hos": "Preah Kossamak Hospital",
+      "rate": "4.2",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOxOxFML9-ypvpj46Rj_j-jEOIj9pygLQnvwtJd=w426-h240-k-no",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.854211039838!2d104.87798277584459!3d11.562307244205158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951a354c389d9%3A0xd07843ea8349e8c1!2sRoyal%20Phnom%20Penh%20Hospital!5e0!3m2!1sen!2skh!4v1702826143801!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "Malaria,Sinusitis,Pneumonia,Dermatology",
+          "detail": [
+            {
+              "doctor_name": "Dr.Somnang ",
+              "img": "https://img.freepik.com/premium-photo/doctor-digital-avatar-generative-ai_934475-9128.jpg",
+              "exper": "12",
+              "des_doc": "Specialize in Infectious Diseases",
+              "year_of_work": "12 years",
+              "illness_control": "Preventive Healthcare ,Healthy Lifestyle ,Medication Adherence ,Regular Health Check-ups ,Stress Management and Mental Health",
+              "phone": "088 899 766",
+              "email": "dr.somang@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name_hos": "Preah Ang Duong Hospital",
+      "rate": "4.3",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipPX6jaP6CdwcnmLqZIr7CCM1wkB03EwziixHkSv=w408-h544-k-no",
+      "location": [
+        {
+          "locate": "Phnom Penh",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.7235327414255!2d104.92086367584457!3d11.571666244020644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951443b9cb95f%3A0x32ea7757020b80aa!2sPreah%20Ang%20Duong%20Hospital!5e0!3m2!1sen!2skh!4v1702826828591!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "General Surgery, Obstetrics and Gynecology, Pediatrics ,Malaria,Sinusitis,Orthopedics",
+          "detail": [
+            {
+              "doctor_name": "Dr.Lyhuy ",
+              "img": "https://img.freepik.com/premium-photo/doctor-digital-avatar-generative-ai_934475-9128.jpg",
+              "exper": "8",
+              "des_doc": "Specialize in Infectious Diseases",
+              "year_of_work": "13 years",
+              "illness_control": "Well-child Check-ups and Vaccinations ,Healthy Nutrition, Physical Activity ,Safety Measures, Developmental Monitoring",
+              "phone": "099 234 789",
+              "email": "dr.lyhuy@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name_hos": "Siem Reap Provincial Hospital",
+      "rate": "3.6",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipO8fpCxr_moMjKhiRHLVyj8riPqREHtU1gJIdDF=w408-h306-k-no",
+      "location": [
+        {
+          "locate": "Siem Reap",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3881.903251590497!2d103.85274657586108!3d13.35629160632604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3110176fe6a23021%3A0xd49d4d846d6b2a8!2sSiem%20Reap%20Provincial%20Hospital!5e0!3m2!1sen!2skh!4v1702827332301!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Public",
+          "illness_name": "General Medicine, Orthopedics, Dermatology,Malaria,Pneumonia",
+          "detail": [
+            {
+              "doctor_name": "Dr.Rotha ",
+              "img": "https://img.freepik.com/premium-photo/3d-illustration-medical-doctor_864601-358.jpg",
+              "exper": "4",
+              "des_doc": "Specialize in Dermatology",
+              "year_of_work": "14 years",
+              "illness_control": "Sun Protection ,Skin Care Routine ,Early Detection of Skin Changes ,Hydration ,Healthy Lifestyle Choices",
+              "phone": "097 678 654",
+              "email": "dr.rotha@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name_hos": "Sihanouk Hospital Center of Hope",
+      "rate": "4.4",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipM1ymPamCE10XaQ7e9VCiELUI0ka_gjHAY3PgZX=w426-h240-k-no",
+      "location": [
+        {
+          "locate": "Sihanouk",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.7895467649564!2d104.90994947584448!3d11.56693934411377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109516b20d5d54f%3A0x5b0cb01f3e50ef7!2sSihanouk%20Hospital%20Center%20of%20Hope!5e0!3m2!1sen!2skh!4v1702827664704!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Oncology, Hematology, Pediatric Surgery,Gastritis,Pneumonia",
+          "detail": [
+            {
+              "doctor_name": "Dr.Soklim",
+              "img": "https://img.freepik.com/premium-photo/3d-illustration-medical-doctor_864601-292.jpg",
+              "exper": "3",
+              "des_doc": "Specialize in Pediatric Surgery",
+              "year_of_work": "15 years",
+              "illness_control": "Specialized Pediatric Surgeons ,Preoperative Evaluation ,Family-Centered Care ,Postoperative Care and Recovery ,Communication and Education",
+              "phone": "012 789 987",
+              "email": "dr.soklim@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name_hos": "Kompong Cham Provincial Hospital",
+      "rate": "3.6",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipPuRS9Wv5v_AugQqzhQdnukCU5xDJgszhOxJPBo=w408-h306-k-no",
+      "location": [
+        {
+          "locate": "Kompong Cham",
+          "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.733011458913!2d105.4584234758482!3d11.992967035576262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310c6a7ba002bab1%3A0x9a5cb65c6de0f25f!2sKampong%20Cham%20Hospital!5e0!3m2!1sen!2skh!4v1702828094437!5m2!1sen!2skh"
+        }
+      ],
+      "hospital_type": [
+        {
+          "lable": "Private",
+          "illness_name": "Pediatrics, Internal Medicine, Surgery,Gastritis,Allergies,Oncology",
+          "detail": [
+            {
+              "doctor_name": "Dr.Lin",
+              "img": "https://img.freepik.com/premium-photo/doctor-character-illustration_863013-49123.jpg",
+              "exper": "7",
+              "des_doc": "Specialize in Internal Medicine",
+              "year_of_work": "16 years",
+              "illness_control": "_Comprehensive Healthcare , Preventive Medicine ,Chronic Disease Management ,Holistic Approach ,Continuity of Care",
+              "phone": "099 777 888",
+              "email": "dr.lin@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambulance": [
+    {
+      "id": 1,
+      "code": "001",
+      "name": "Royal Phnom Penh Hospital",
+      "driver": "Koh Serey",
+      "type_hos": "Private",
+      "location": "Phnom Penh",
+      "phone": "099 899 677",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Ambulance1.png?alt=media&token=bee0d433-b267-4d3e-8de4-7f8157abaa35"
+    },
+    {
+      "id": 2,
+      "code": "002",
+      "name": "Calmette Hospital",
+      "driver": "Sek Kunthea",
+      "type_hos": "Public",
+      "location": "PhnomPenh",
+      "phone": " 077 888 999",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Ambulance2.png?alt=media&token=4f19d952-9840-45e7-aeef-14b2b0fc1e6b"
+    },
+    {
+      "id": 3,
+      "code": "003",
+      "name": "Kratie Provincial Hospital",
+      "driver": "Houn Songheng",
+      "type_hos": "Public",
+      "location": "Kratie",
+      "phone": "088 788 546",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Ambulance3.png?alt=media&token=11622194-432b-409c-a3e3-76e248986b7d"
+    },
+    {
+      "id": 4,
+      "code": "004",
+      "name": "Royal Phnom Penh Hospital",
+      "driver": "Han David",
+      "type_hos": "Private",
+      "location": "Phnom Penh",
+      "phone": "023 678 988",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service4.png?alt=media&token=8c12cd7c-146e-46f0-ba7a-88b9e08a7cc3"
+    },
+    {
+      "id": 5,
+      "code": "005",
+      "name": " Central Health Clinic",
+      "driver": "Brien William",
+      "type_hos": "Private",
+      "location": "flight(PhnomPenh-Singapore)",
+      "phone": " 077 655 456",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service5.png?alt=media&token=78743ddf-1eb3-4292-939c-5f6599ca035f"
+    },
+    {
+      "id": 6,
+      "code": "006",
+      "name": "Bangkok Hospital",
+      "driver": "Thap Tharong",
+      "type_hos": "Private",
+      "location": "Bangkok",
+      "phone": "067 655 890",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service6.png?alt=media&token=8e894557-23a9-48c5-95d7-0c8f29351390"
+    },
+    {
+      "id": 7,
+      "code": "007",
+      "name": "Preah Vihear Public ",
+      "driver": "Sok Chomrern",
+      "type_hos": "Public",
+      "location": "Preah Vihear",
+      "phone": " 099 666 888",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service7.png?alt=media&token=a9625be0-a833-4980-9a5f-0f105064d390"
+    },
+    {
+      "id": 8,
+      "code": "008",
+      "name": "Pursat Community  Hospital",
+      "driver": "Chab Sokha",
+      "type_hos": "Public",
+      "location": "Pursat",
+      "phone": "077 567 433",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service8.png?alt=media&token=84642627-626f-4220-9c8f-68bb2e180500"
+    },
+    {
+      "id": 9,
+      "code": "009",
+      "name": "Siem Reap Central Hospital",
+      "driver": "William Maker",
+      "type_hos": "Private",
+      "location": "Siem Reap",
+      "phone": "077 655 456",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service9.png?alt=media&token=40233303-1a9b-445f-81a8-56952252c315"
+    },
+    {
+      "id": 10,
+      "code": "010",
+      "name": "Stung Treng Regional  Hospital",
+      "driver": "Sok Khemra",
+      "type_hos": "Public",
+      "location": "Stung Treng",
+      "phone": "099 678 555",
+      "img": "https://firebasestorage.googleapis.com/v0/b/ambulancecar-dd464.appspot.com/o/Service10.png?alt=media&token=f743bf16-f2d5-4b13-bf16-40384d455793"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Eye Infections",
+      "scripte": "Eye infections are an important cause of vision loss worldwide. Patients with these infections are commonly seen by primary care providers, internists, emergency medicine specialists, hospitalists, and ophthalmologists. Each year in the United States alone, conjunctivitis accounts for more than 550,000 visits to emergency departments1 and many more visits to outpatient offices, keratitis is diagnosed at more than 1 million office and emergency department visits,2 exogenous endophthalmitis complicates up to 0.1% of the more than 7 million cataract surgeries and intravitreal injections performed,3-5 and thousands of patients are admitted to general hospitals to treat vision-threatening eye infections such as endogenous endophthalmitis and infectious uveitis. ",
+      "date": "20, November 2023",
+      "like": "20,204",
+      "share": "400",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2023/nejm_2023.389.issue-25/nejmra2216081/20231218/images/img_medium/nejmra2216081_f1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Locally Acquired Melioidosis Linked to Environment — Mississippi, 2020–2023        ",
+      "scripte": "Melioidosis, caused by Burkholderia pseudomallei, is a rare but potentially fatal bacterial disease endemic to tropical and subtropical regions worldwide. It is typically acquired through contact with contaminated soil or fresh water. Before this investigation, B. pseudomallei was not known to have been isolated from the environment in the continental United States. Here, we report on three patients living in the same Mississippi Gulf Coast county who presented with melioidosis within a 3-year period. They were infected by the same Western Hemisphere B. pseudomallei strain that was discovered in three environmental samples collected from the property of one of the patients. These findings indicate local acquisition of melioidosis from the environment in the Mississippi Gulf Coast region.",
+      "date": "23, November 2023",
+      "like": "2,204",
+      "share": "410",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2023/nejm_2023.389.issue-25/nejmoa2306448/20231218/images/img_medium/nejmoa2306448_f2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Acute Human Immunodeficiency Virus Infection",
+      "scripte": "A previously healthy 26-year-old man presented to the emergency department with a 5-day history of an asymptomatic rash, sore throat, fevers, chills, and malaise. On physical examination, scattered, erythematous papules and macules could be seen across the upper chest and anterior neck (Panel A). In the mouth, palatal petechiae, buccal mucosal ulcerations, and pharyngeal erythema were observed (Panel B). There was no palpable lymphadenopathy. ",
+      "date": "15, October 2023",
+      "like": "2,564",
+      "share": "20",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2023/nejm_2023.389.issue-24/nejmicm2306536/20231211/images/img_medium/nejmicm2306536_f1.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Hydrocortisone in Severe Community-Acquired Pneumonia        ",
+      "scripte": "A total of 800 patients had undergone randomization when the trial was stopped after the second planned interim analysis. Data from 795 patients were analyzed. By day 28, death had occurred in 25 of 400 patients (6.2%; 95% confidence interval [CI], 3.9 to 8.6) in the hydrocortisone group and in 47 of 395 patients (11.9%; 95% CI, 8.7 to 15.1) in the placebo group (absolute difference, −5.6 percentage points; 95% CI, −9.6 to −1.7; P=0.006).",
+      "date": "12, December 2023",
+      "like": "204",
+      "share": "50",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2023/nejm_2023.388.issue-21/nejmoa2215145/20230816/images/img_medium/nejmoa2215145_f0.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Simvastatin in Critically Ill Patients with Covid-19",
+      "scripte": "In an ongoing international, multifactorial, adaptive platform, randomized, controlled trial, we evaluated simvastatin (80 mg daily) as compared with no statin (control) in critically ill patients with Covid-19 who were not receiving statins at baseline. The primary outcome was respiratory and cardiovascular organ support–free days, assessed on an ordinal scale combining in-hospital death (assigned a value of −1) and days free of organ support through day 21 in survivors; the analyis used a Bayesian hierarchical ordinal model. ",
+      "date": "10, March 2023",
+      "like": "50,104",
+      "share": "2.4K",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/dos/content/digital-objects/2021/imc-do-group/1409/1176/nejmdo005781/20231031/media/nejmdo005781_516x388.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Uncovering a Hidden Threat",
+      "scripte": "Each interactive case presents an evolving patient history and a series of questions and exercises designed to test your diagnostic and therapeutic skills. You will receive immediate feedback on your answers and treatment choices. Sign in to NEJM.org before beginning the case to: Claim 1 AMA PRA Category 1 Credit™ (CME exams available to subscribers).",
+      "date": "11, August 2023",
+      "like": "1,204",
+      "share": "350",
+      "ref": "https://www.nejm.org/na101/home/literatum/publisher/mms/dos/content/digital-objects/2021/imc-do-group/1317/3685/nejmdo007153/20231220/media/nejmdo007153_516x388.jpg"
+    }
+  ]
+}
